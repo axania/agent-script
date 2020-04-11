@@ -19,4 +19,6 @@ pwd
 id
 getconfig LONG_BIT
 arch
-
+id 
+pwd
+date
