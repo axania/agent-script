@@ -8,10 +8,15 @@ fi
 
 lscpu
 lsblk
-
+free -m
 uname -r
 
 cat /proc/miminfo
 cat /proc/cpuinfo
 
 lsb_release -a 
+pwd
+id
+getconfig LONG_BIT
+arch
+
