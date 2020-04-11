@@ -10,3 +10,8 @@ lscpu
 lsblk
 
 uname -r
+
+cat /proc/miminfo
+cat /proc/cpuinfo
+
+lsb_release -a 
