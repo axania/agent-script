@@ -17,6 +17,9 @@ cat /proc/cpuinfo
 lsb_release -a 
 pwd
 id
+cat /proc/meminfo
+
+cat /etc/issue
 getconfig LONG_BIT
 arch
 id 
