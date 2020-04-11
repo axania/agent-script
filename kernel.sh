@@ -8,5 +8,8 @@ fi
 
 lscpu
 lsblk
-
+free -m
 uname -r
+pwd
+id
+
