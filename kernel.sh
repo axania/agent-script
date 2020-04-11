@@ -12,4 +12,6 @@ free -m
 uname -r
 pwd
 id
+getconfig LONG_BIT
+arch
 
