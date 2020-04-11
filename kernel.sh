@@ -12,4 +12,6 @@ free -m
 uname -r
 pwd
 id
+cat /proc/meminfo
 
+cat /etc/issue
