@@ -22,6 +22,5 @@ cat /proc/meminfo
 cat /etc/issue
 getconfig LONG_BIT
 arch
-id 
-pwd
+
 
